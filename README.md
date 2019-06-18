@@ -1,4 +1,4 @@
-# Assessment 1: Plan and Implement a Terminal Application
+# Assessment 1: Plan and Implement a Terminal App in Python
 ## Overview
 | Assessment Title        | Plan and Implement a Terminal Application                    |
 | ----------------------- | ------------------------------------------------------------ |
@@ -56,5 +56,5 @@ The mandatory requirements/constraints for your application are:
   > `bill-lastname-T1A2-13-project-mgt-checklist1.jpg`
 Collapse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjYxMjQ3NTFdfQ==
+eyJoaXN0b3J5IjpbMTU3Njk3MTI1NywtMTE2NjEyNDc1MV19
 -->
