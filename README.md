@@ -24,14 +24,17 @@ Note:
 ### Feature 1 - " "
 Outline of how to implement
 Task breakdown (checklist)
+Task priority
 ### Feature 2 - " "
 Outline of how to implement
 Task breakdown (checklist)
+Task priority
 ### Feature 3 - " "
 Outline of how to implement
 Task breakdown (checklist)
+Task priority
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0MjIxODQsLTI1MzM0OTY3NiwxMTM4Nj
-Q1MTExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
+eyJoaXN0b3J5IjpbLTEyNDIxNjEzODksLTI1MzM0OTY3NiwxMT
+M4NjQ1MTExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
 -->
