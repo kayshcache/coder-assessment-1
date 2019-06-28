@@ -23,18 +23,18 @@ Note:
 ## Implementation Plan
 ### Feature 1 - " "
 Outline of how to implement
-Task breakdown (checklist)
+**5 minimum** Task breakdown (checklist)
 Task priorities & deadlines
 ### Feature 2 - " "
 Outline of how to implement
-Task breakdown (checklist)
+**5 minimum** Task breakdown (checklist)
 Task priorities & deadlines
 ### Feature 3 - " "
 Outline of how to implement
--- Task breakdown (checklist)
+**5 minimum** Task breakdown (checklist)
 Task priorities & deadlines
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzQ3ODc4LC0yNTMzNDk2NzYsMTEzOD
-Y0NTExMSwxNTc2OTcxMjU3LC0xMTY2MTI0NzUxXX0=
+eyJoaXN0b3J5IjpbLTE4MDkwMjY1MTEsLTI1MzM0OTY3NiwxMT
+M4NjQ1MTExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
 -->
