@@ -33,8 +33,10 @@ Task priorities & deadlines
 Outline of how to implement
 **5 minimum** Task breakdown (checklist)
 Task priorities & deadlines
+##
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkwMjY1MTEsLTI1MzM0OTY3NiwxMT
-M4NjQ1MTExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
+eyJoaXN0b3J5IjpbNTU3OTIyODE1LC0xODA5MDI2NTExLC0yNT
+MzNDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMjU3LC0xMTY2MTI0
+NzUxXX0=
 -->
