@@ -12,8 +12,8 @@ Explain - how a user will use it
 - feature 3: User can choose what they want to scrape from the website
 ## User Interaction & Experience
 ### Outline:
-- 
+- How the use 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxNjg3MTgyLDExMzg2NDUxMTEsMTU3Nj
-k3MTI1NywtMTE2NjEyNDc1MV19
+eyJoaXN0b3J5IjpbLTE4OTc4ODM5NDYsMTEzODY0NTExMSwxNT
+c2OTcxMjU3LC0xMTY2MTI0NzUxXX0=
 -->
