@@ -4,9 +4,9 @@
 Describe - what the app will do.
 Identify - the problem it will solve
 Identify - the target audience
-Explain - 
+Explain - how a 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1MjA4MjUyLDE1NzY5NzEyNTcsLTExNj
-YxMjQ3NTFdfQ==
+eyJoaXN0b3J5IjpbMTMyNzg1MzM1NywxNTc2OTcxMjU3LC0xMT
+Y2MTI0NzUxXX0=
 -->
