@@ -33,10 +33,11 @@ Task priorities & deadlines
 Outline of how to implement
 **5 minimum** Task breakdown (checklist)
 Task priorities & deadlines
-##
+## Developer Log
+{Please see development_log.md](src/development_log.md
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3OTIyODE1LC0xODA5MDI2NTExLC0yNT
-MzNDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMjU3LC0xMTY2MTI0
-NzUxXX0=
+eyJoaXN0b3J5IjpbLTE1NzAzMzMwMDEsLTE4MDkwMjY1MTEsLT
+I1MzM0OTY3NiwxMTM4NjQ1MTExLDE1NzY5NzEyNTcsLTExNjYx
+MjQ3NTFdfQ==
 -->
