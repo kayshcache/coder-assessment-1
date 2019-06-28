@@ -7,11 +7,11 @@ Identify - the target audience
 Explain - how a user will use it
 ## Features
 100 words each
-- feature 1: 
-- feature 2:
-- feature 3:
+- feature 1: User can provide URL as CLI argument
+- feature 2: User can specify whether to output results to a file
+- feature 3: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzgyMjczLDExMzg2NDUxMTEsMTU3Nj
-k3MTI1NywtMTE2NjEyNDc1MV19
+eyJoaXN0b3J5IjpbLTE4Mzg0Nzk5MzQsMTEzODY0NTExMSwxNT
+c2OTcxMjU3LC0xMTY2MTI0NzUxXX0=
 -->
