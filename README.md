@@ -18,8 +18,11 @@ Explain - how a user will use it
 ## Control Flow Diagram
 ![Figure 1.1 Control Flow Diagram](diagram.png)
 Note:
+- show the workflow/logic and/or integration of the features in your application for each feature.  
+- utilise a recognised format or set of conventions for a control flow diagram, such as UML.
+## Implementation Plan
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk0MDgyMDgsMTEzODY0NTExMSwxNT
-c2OTcxMjU3LC0xMTY2MTI0NzUxXX0=
+eyJoaXN0b3J5IjpbLTI1MzM0OTY3NiwxMTM4NjQ1MTExLDE1Nz
+Y5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
 -->
