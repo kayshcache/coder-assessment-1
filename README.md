@@ -37,12 +37,14 @@ Task priorities & deadlines
 [Please see development_log.md](src/development_log.md)
 Please send your log to your educator as a markdown file as you complete them. This is so we can provide you with feedback.
 ## Help File
-### Steps to install
-### Dependencies
-### System/hardware requirements
-### Explanation of features
+#### Steps to install
+#### Dependencies
+#### System/hardware requirements
+#### Explanation of features
+### Testing
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjgzODkzMSwtMTkyOTEyNzQ0OCwtMj
+eyJoaXN0b3J5IjpbMTc3NjkzODQyNCwtMTkyOTEyNzQ0OCwtMj
 g5NTA5ODk1LC04Njk4ODc1MzYsLTE4MDkwMjY1MTEsLTI1MzM0
 OTY3NiwxMTM4NjQ1MTExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NT
 FdfQ==
