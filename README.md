@@ -14,12 +14,12 @@ Explain - how a user will use it
 ### Outline:
 - How the user will get instructions and help from the app
 - How the user will interact and access the features
-- How will errors be displayed
+- How will errors be handled and displayed
 ## Control Flow Diagram
-![Alt](diagram.png)
-
+![Figure 1.1 Control Flow Diagram](diagram.png)
+Note:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODkyNzIxOCwxMTM4NjQ1MTExLDE1Nz
-Y5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
+eyJoaXN0b3J5IjpbLTE5MDk0MDgyMDgsMTEzODY0NTExMSwxNT
+c2OTcxMjU3LC0xMTY2MTI0NzUxXX0=
 -->
