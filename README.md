@@ -34,10 +34,11 @@ Outline of how to implement
 **5 minimum** Task breakdown (checklist)
 Task priorities & deadlines
 ## Developer Log
-Please see development_log.md](src/development_log.md)
+[Please see development_log.md](src/development_log.md)
+Please send your log to your educator as a markdown file as you complete them. This is so we can provide you with feedback.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjAxNDY4MSwtODY5ODg3NTM2LC0xOD
+eyJoaXN0b3J5IjpbLTI4OTUwOTg5NSwtODY5ODg3NTM2LC0xOD
 A5MDI2NTExLC0yNTMzNDk2NzYsMTEzODY0NTExMSwxNTc2OTcx
 MjU3LC0xMTY2MTI0NzUxXX0=
 -->
