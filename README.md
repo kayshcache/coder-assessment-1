@@ -40,10 +40,10 @@ Please send your log to your educator as a markdown file as you complete them. T
 ### Steps to install
 ### Dependencies
 ### System/hardware requirements
-###
+### Explanation of features
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ2OTM0MjIsLTE5MjkxMjc0NDgsLT
-I4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5MDI2NTExLC0yNTMz
-NDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMjU3LC0xMTY2MTI0Nz
-UxXX0=
+eyJoaXN0b3J5IjpbMTI3MjgzODkzMSwtMTkyOTEyNzQ0OCwtMj
+g5NTA5ODk1LC04Njk4ODc1MzYsLTE4MDkwMjY1MTEsLTI1MzM0
+OTY3NiwxMTM4NjQ1MTExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NT
+FdfQ==
 -->
