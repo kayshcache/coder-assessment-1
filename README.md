@@ -36,10 +36,11 @@ Task priorities & deadlines
 ## Developer Log
 [Please see development_log.md](src/development_log.md)
 Please send your log to your educator as a markdown file as you complete them. This is so we can provide you with feedback.
-## Help
+## Help File
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkxMjc0NDgsLTI4OTUwOTg5NSwtOD
-Y5ODg3NTM2LC0xODA5MDI2NTExLC0yNTMzNDk2NzYsMTEzODY0
-NTExMSwxNTc2OTcxMjU3LC0xMTY2MTI0NzUxXX0=
+eyJoaXN0b3J5IjpbLTE0MjY3MDM4OCwtMTkyOTEyNzQ0OCwtMj
+g5NTA5ODk1LC04Njk4ODc1MzYsLTE4MDkwMjY1MTEsLTI1MzM0
+OTY3NiwxMTM4NjQ1MTExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NT
+FdfQ==
 -->
