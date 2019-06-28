@@ -16,7 +16,10 @@ Explain - how a user will use it
 - How the user will interact and access the features
 - How will errors be displayed
 ## Control Flow Diagram
+![Alt](diagram.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3MzQ5NTY3LDExMzg2NDUxMTEsMTU3Nj
-k3MTI1NywtMTE2NjEyNDc1MV19
+eyJoaXN0b3J5IjpbLTk4ODkyNzIxOCwxMTM4NjQ1MTExLDE1Nz
+Y5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
 -->
