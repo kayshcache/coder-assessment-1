@@ -1,8 +1,8 @@
 # Terminal Application
 ## Statement of Purpose & Scope
-300 - 500 words:
-Describe - what the app will do.
-This app will use HTTP Request methods to acquire data and information from any website. It runs only in the terminal, in that the only interface is the command line arguments, flags
+###### 300 - 500 words:
+###### Describe - what the app will do.
+This app will use HTTP Request methods to acquire data and information from any website. It runs only in the terminal, in that the only interface is the command line arguments, flags, 
 Identify - the problem it will solve
 Identify - the target audience
 Explain - how a user will use it
@@ -45,8 +45,8 @@ Please send your log to your educator as a markdown file as you complete them. T
 ### Testing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3MTU5NzgyLDE3NzY5Mzg0MjQsLTE5Mj
-kxMjc0NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5MDI2
-NTExLC0yNTMzNDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMjU3LC
-0xMTY2MTI0NzUxXX0=
+eyJoaXN0b3J5IjpbLTE0Nzg1MDM5MzgsMTc3NjkzODQyNCwtMT
+kyOTEyNzQ0OCwtMjg5NTA5ODk1LC04Njk4ODc1MzYsLTE4MDkw
+MjY1MTEsLTI1MzM0OTY3NiwxMTM4NjQ1MTExLDE1NzY5NzEyNT
+csLTExNjYxMjQ3NTFdfQ==
 -->
