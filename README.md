@@ -1,60 +1,67 @@
-# Assessment 1: Plan and Implement a Terminal App in Python
-## Overview
-| Assessment Title        | Plan and Implement a Terminal Application                    |
-| ----------------------- | ------------------------------------------------------------ |
-| **Release Date**        | Thursday, Week 3, Term 1                                     |
-| **Due Date**            | Saturday, Week 5, Term 1                                     |
-| **Subject**             | Foundation Programming                                       |
-| **Course**              | Diploma of Information Technology - Bootcamp Delivery Mode (Cyber Security) |
-| **Assessment Policies** | Ensure you have reviewed the policies and procedures relating to assessments:<br />- Academic appeals<br />- Illness / Misadventure<br />- Copyright, Referencing and Plagiarism<br />- Student Welfare and Academic Risk Policy<br /><br />A penalty of 10% of the total mark per day will apply for late submissions, inclusive of weekends. |
+# Lacerater - Terminal Application
+## Statement of Purpose & Scope
+###### 300 - 500 words:
+###### Describe - what the app will do.
+This app, dubbed Lacerater, will use HTTP Request methods to acquire data and information from any website. It runs only in the terminal, in that the only interface is the command line arguments, flags, and options. It will produce output to the terminal window that can be piped to other apps or methods in the terminal as well as produce an output file if the user includes that option when the command is run. 
+It is designed to be simple and in future branches extensible.
+##### Identify - the problem it will solve
+It will automate some of the most rudimentary browser-based inspection and information gathering techniques of ethical hackers during their initial analysis of a web application.
+##### Identify - the target audience
+Cyber security analysts who are working in the Unix terminal, grepping, vimming, and bashing data for reports with the intent of later performing deeper analysis of client web services.
+##### Explain - how a user will use it
+## Features
+##### 100 words each
+- F1: User can provide URL with the lacerate command as an argument, making it possible to use this utility on any available HTTP GETable asset.
+- F2: User can specify whether to output results to a file with an option flag. The app will produce a CSV link file using a semi-colon to delimit any multiple instances of an HTML tag or attribute.
+- F3: User can choose what they want to 'lacerate' from the website. For example, all links including the anchor and link text together. If no resource is found of the specified type, meta-tags from the head of the HTML document will be returned as default. Multiple lacerations can be produced with a single execution.
+- additional features: native-Unix like running; light-weight and extensible; has a man page
+## User Interaction & Experience
+### Outline:
+##### How the user will get instructions and help from the app
+The "-h" flag can be added to the command to get the full help. Otherwise, _argparse_ module will produce helpful responses when the commands given by the user don't match the requirements or can be expanded to specify more accurate output.
+##### How the user will interact and access the features
+The user will write a single line command including all options and flags to get the required operation from those specified in the help page.
+##### How will errors be handled and displayed
+Exception errors will only be displayed to the user specifically if resources aren't found at the URL given or the user is experiencing internet connection problems. If resources are found at the specified URL but 
+## Control Flow Diagram
+![Figure 1.1 Control Flow Diagram](https://github.com/kayshcache/coder-assessment-1/raw/master/lacerater.png)
+Note:
+- show the workflow/logic and/or integration of the features in your application for each feature.  
+- utilise a recognised format or set of conventions for a control flow diagram, such as UML.
+## Implementation Plan
+### Feature 1 - " "
+Outline of how to implement
+**5 minimum** Task breakdown (checklist)
+Task priorities & deadlines
+### Feature 2 - " "
+Outline of how to implement
+**5 minimum** Task breakdown (checklist)
+Task priorities & deadlines
+### Feature 3 - " "
+Outline of how to implement
+**5 minimum** Task breakdown (checklist)
+Task priorities & deadlines
+## Developer Log
+[Please see development_log.md](src/development_log.md)
+Please send your log to your educator as a markdown file as you complete them. This is so we can provide you with feedback.
+## Help File
+###### Steps to install
+Install from source for Unix systems only
+###### Dependencies
+Python 3+
+Modules from PyPI: Requests, Beautiful Soup, Argparse
+###### System/hardware requirements
+Minimum requirements 2gb RAM x86_64
+###### Explanation of features
+Get data from websites
+Specify what information to scrape from a web page using flags
 
-## Context
-Terminal applications, also known as command line applications,  are run from the shell and accept input from [stdin](https://en.wikipedia.org/wiki/Standard_streams#Standard_input_(stdin)) and arguments such as flags and options, and produce an output that is useful to the user. 
-You will create your own terminal app because:
-* terminal applications are an essential part of learning to utilise the functions of all operating systems efficiently and in a way that promotes your understanding of the inner workings and processes of operating systems and the hardware itself;
-* many applications used across IT functions utilise terminal applications as a standard, rather applications with a graphical user interface;
-* developing your own terminal application will increase you technical sophistication and ability to use other terminal applications.
-## Project Brief
-You are to design, implement and test a terminal application and throughout the process demonstrate that you are able to use a range of developer tools.
-The mandatory requirements/constraints for your application are:
-- it must utilise arguments that can be provided in the terminal when running the application (args, options and flags)
-- accept user input in the form of a file or text input
-- produce printed output or interact with the file system
-*You must consult with your educator on the application you intend to make before completing substantial work on the **software development plan** or implementing the application itself.*
-## Assessment Requirements
-| Code    | Requirement                                                  | Submission Requirements                                      | Mapping                                |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------- |
-|         | **Design** a software development plan for a terminal application. | This task should be written in a single document in a report format with headings. <br /><br />It is suggested that this document is placed in the root of your source control repository, and that you write it in markdown.<br /><br />**NOTE:** we do not accept submission of Word, Pages or Open office documents. We will only accept PDFs, or markdown files for written assessments. |                                        |
-|         | **Statement of Purpose and Scope**                           |                                                              |                                        |
-| T1A2-1  | **Develop** a statement of **purpose** and **scope** for your application. It must include:<br />- **describe** at a high level what the application will do<br />- **identify** the problem it will solve and **explain** why you are developing it<br />- **identify** the target audience <br />- **explain** how a member of the target audience will use it<br /><br /><u>Glossary</u><br />**Describe** means to provide detail.<br />**Identify** means to make a statement or name something.<br />**Explain** means to provide detailed reasons/information relating to why or how something works<br /> | 300 - 500 words.<br /><br />Please include this in your **software development plan** as a separate section with an appropriate heading. | CMP1041-3.1                            |
-|         | **Features**                                                 |                                                              |                                        |
-| T1A2-2  | **Develop** a list of features that will be included in the application. It must include:<br />- at least THREE **features**<br />- **describe** each feature<br /><br /><br />**Ensure** that your features include the following language elements and concepts:<br />- use of variables and the concept of variable scope<br />- loops and conditional control structures<br />- error handling<br /><br /><br />**Note:** If the features you described do not require you to use all of the above it is likely that your application is not sophisticated enough. **Consult with your educator** to check your features are sufficient to address the criteria for T1A2-7. | 300 words (approx. 100 words per feature)<br /><br />Please include this in your **software development plan** as a separate section with an appropriate heading. | CMP1041-3.1                            |
-|         | **User Interaction and Experience**                          |                                                              |                                        |
-| T1A2-4  | **Develop** an **outline** of the user interaction and experience for the application.<br />Your outline must include:<br />- how the user will find out how to interact/use each feature<br />- how the user will interact/use each feature<br />- how errors will be handled by the application and displayed to the user | Please include this in your **software development plan** as a separate section with an appropriate heading. | CMP1041-2.1, CMP1041-2.3               |
-|         | **Control Flow Diagram**                                     |                                                              |                                        |
-| T1A2-5  | **Develop** a diagram which describes the control flow of your application. You diagram must:<br />- show the workflow/logic and/or integration of the features in your application for each feature.<br />- utilise a recognised format or set of conventions for a control flow diagram, such as UML. | Please provide a image file or PDF of your diagram.<br /><br />Please include this in your **software development plan** as a separate section with an appropriate heading. | CMP1041-3.2                            |
-|         | **Implementation Plan**                                      |                                                              |                                        |
-| T1A2-6  | **Develop** an implementation plan which:<br />- **outlines** how each feature will be implemented and a checklist of tasks for each feature<br />- prioritise the implementation of different features, or checklist items within a feature<br />- provide a deadline, duration or other time indicator for each feature or checklist/checklist-item | You must submit this as a written document, ideally in a tabular format, and it is suggested that you enter your checklists into an appropriate project management application to assist you in completing T1A2-10.<br /><br />Your checklists for each feature should have at least 5 items. | CMP1041-3.3                            |
-|         | **Status Updates**                                           |                                                              |                                        |
-|         | Write **TWO** status updates on your application. You must write a status update when:<br />- you significantly change a feature or your implementation plan at any point<br /><br />- encounter a significant issue, challenge or roadblock<br />- are halfway through implementing the features<br />- prior/after testing the application | You should submit these logs throughout the course of developing your application.<br /><br />Each status report should be between 100 - 200 words.<br /><br />The **Development Log** should be written in markdown and placed in a file named `development-log.md` in the root of your source control repository. Ensure you put the date of the log at the top of each log entry.<br /><br />Please send your log to your educator as a markdown file as you complete them. This is so we can provide you with feedback. | CMP1041-2.2                            |
-|         | **Implement Application**                                    |                                                              |                                        |
-| T1A2-7  | **Implement** all features in the software development plan you have designed, you must utilise a range of programming concepts and structures using Python 3 such as:<br />- variables and variable scope<br />- loops and conditional control structures<br />- error handling |                                                              | CMP1041-1.1,  CMP1041-1.2, CMP1041-2.3 |
-| T1A2-8  | **Apply** all style and conventions for the programming language consistently to all code produced. |                                                              | CMP1041-1.3                            |
-| T1A2-9  | **Creates** an application which runs without error and has features that are consistent with the development plan. |                                                              | CMP1041-4.3                            |
-| T1A2-10 | **Design** a help file which includes a set of instructions which accurately **describe** how to use and install the application. <br /><br />You must include:<br />- steps to install the application<br />- any dependencies required by the application to operate<br />- any system/hardware requirements<br />- a written explanation of the different features of the application | The help file should be 100 - 200 words.                     | CMP1041-4.2                            |
-|         | **Test Application**                                         |                                                              |                                        |
-| T1A2-11 | **Design** TWO tests which check that the application is running as expected. <br /><br />Each test should:<br/>- cover a different feature of the application<br />- state what is being tested<br />- provide at least TWO test cases and the expected results for each test case<br /><br />An **outline** of the testing procedure and cases should be included with the source code of the application and written in markdown. |                                                              | CMP1041-4.1                            |
-|         | **Developer Operations**                                     |                                                              |                                        |
-| T1A2-12 | **Utilise** source control throughout the development of the application by:<br/>- making regular commits (at least 20 commits) with a commit message that summarises the changes<br />- pushing all commits to a remote repository | You must submit a source control repository as a zip file to satisfy this requirement. | CMP1041-6.1                            |
-| T1A2-13 | **Utilise** a project management platform to track the development of the application by:<br/>- having features itemised and broken down into checklists<br />- setting deadlines, duration or a time-frame for each feature or task<br />- prioritising tasks | You must submit screenshots, or a valid export from a project management application to satisfy this requirement. If you are using a non-standard project management application, please discuss with your trainer whether they can access the file. If in doubt, screen capture your project management application and submit screen captures. | CMP1041-6.2                            |
-| T1A2-14 | **Utilise** developer tools to automate the building and testing of the application by:<br/>- writing a script which runs the tests<br />- writing a script which turns the application into an executable; OR<br />- packaging the application for use as a module or dependency | You must submit a script file in with your source control repository to satisfy this requirement. | CMP1041-6.3                            |
-## Submission Guidelines
-- Your source control repository should be zipped and submitted via the Canvas LMS platform.
-- The Software Development Plan must be submitted as a plan-text file using markdown
-- Your application, exports from project management software, screenshots, and any other part of your submission should be in your source control repository. Any file you submit should have a filename which reflects what the file is, contain your name, and the requirements code it relates to. 
-  For example: 
-  > `bill-lastname-T1A2-13-project-mgt-checklist1.jpg`
-Collapse
+### Testing
+An **outline** of the testing procedure and cases should be included with the source code of the application and written in markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Njk3MTI1NywtMTE2NjEyNDc1MV19
+eyJoaXN0b3J5IjpbMjA4MjM1MDc3NiwxNzgwNzE4OTc2LC00MD
+g0NTU3MTAsMTc3NjkzODQyNCwtMTkyOTEyNzQ0OCwtMjg5NTA5
+ODk1LC04Njk4ODc1MzYsLTE4MDkwMjY1MTEsLTI1MzM0OTY3Ni
+wxMTM4NjQ1MTExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
+
 -->
