@@ -7,7 +7,7 @@ It is designed to be simple and in future branches extensible.
 ##### Identify - the problem it will solve
 It will automate some of the most rudimentary browser-based inspection and information gathering techniques of ethical hackers during their initial analysis of a web application.
 ##### Identify - the target audience
-Cyber security analysts who are working in the unix terminal, grepping, vimming, and bashing data for reports and later deeper  analysis of client web services.
+Cyber security analysts who are working in the unix terminal, grepping, vimming, and bashing data for reports with the intent of later performing deeper analysis of client web services.
 ##### Explain - how a user will use it
 ## Features
 100 words each
@@ -48,8 +48,8 @@ Please send your log to your educator as a markdown file as you complete them. T
 ### Testing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTc5Njg0NSwxNzc2OTM4NDI0LC0xOT
-I5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4NzUzNiwtMTgwOTAy
-NjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMTEsMTU3Njk3MTI1Ny
-wtMTE2NjEyNDc1MV19
+eyJoaXN0b3J5IjpbMjA4MDM1ODE3LDE3NzY5Mzg0MjQsLTE5Mj
+kxMjc0NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5MDI2
+NTExLC0yNTMzNDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMjU3LC
+0xMTY2MTI0NzUxXX0=
 -->
