@@ -3,8 +3,9 @@
 ###### 300 - 500 words:
 ###### Describe - what the app will do.
 This app, dubbed Lacerater, will use HTTP Request methods to acquire data and information from any website. It runs only in the terminal, in that the only interface is the command line arguments, flags, and options. It will produce output to the terminal window that can be piped to other apps or methods in the terminal as well as produce an output file if the user includes that option when the command is run. 
+It is designed to be simple and in future branches extensible.
 ##### Identify - the problem it will solve
-
+It will automate some of the 
 ##### Identify - the target audience
 ##### Explain - how a user will use it
 ## Features
@@ -46,7 +47,7 @@ Please send your log to your educator as a markdown file as you complete them. T
 ### Testing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDI5NzU4NiwxNzc2OTM4NDI0LC0xOT
+eyJoaXN0b3J5IjpbLTIxNDEzMTQ4NSwxNzc2OTM4NDI0LC0xOT
 I5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4NzUzNiwtMTgwOTAy
 NjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMTEsMTU3Njk3MTI1Ny
 wtMTE2NjEyNDc1MV19
