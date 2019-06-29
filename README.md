@@ -49,8 +49,9 @@ Please send your log to your educator as a markdown file as you complete them. T
 Install from source for unix systems only
 ###### Dependencies
 Python 3+
+Modules: Reu
 ###### System/hardware requirements
-Minimum requirements 2gb RAM x86
+Minimum requirements 2gb RAM x86_64
 ###### Explanation of features
 Get data from websites
 Specify what information to scrape from a web page using flags
@@ -58,7 +59,7 @@ Specify what information to scrape from a web page using flags
 ### Testing
 An **outline** of the testing procedure and cases should be included with the source code of the application and written in markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3NzQzMjgwLC00MDg0NTU3MTAsMTc3Nj
+eyJoaXN0b3J5IjpbNTg5NDAyMzE2LC00MDg0NTU3MTAsMTc3Nj
 kzODQyNCwtMTkyOTEyNzQ0OCwtMjg5NTA5ODk1LC04Njk4ODc1
 MzYsLTE4MDkwMjY1MTEsLTI1MzM0OTY3NiwxMTM4NjQ1MTExLD
 E1NzY5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
