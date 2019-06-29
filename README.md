@@ -2,6 +2,7 @@
 ## Statement of Purpose & Scope
 300 - 500 words:
 Describe - what the app will do.
+This app will use HTTP Request methods to s
 Identify - the problem it will solve
 Identify - the target audience
 Explain - how a user will use it
@@ -44,8 +45,8 @@ Please send your log to your educator as a markdown file as you complete them. T
 ### Testing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjkzODQyNCwtMTkyOTEyNzQ0OCwtMj
-g5NTA5ODk1LC04Njk4ODc1MzYsLTE4MDkwMjY1MTEsLTI1MzM0
-OTY3NiwxMTM4NjQ1MTExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NT
-FdfQ==
+eyJoaXN0b3J5IjpbMjI4MzgwMDczLDE3NzY5Mzg0MjQsLTE5Mj
+kxMjc0NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5MDI2
+NTExLC0yNTMzNDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMjU3LC
+0xMTY2MTI0NzUxXX0=
 -->
