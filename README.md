@@ -12,8 +12,9 @@ Cyber security analysts who are working in the unix terminal, grepping, vimming,
 ## Features
 100 words each
 - feature 1: User can provide URL as CLI argument
-- feature 2: User can specify whether to output results to a file
-- feature 3: User can choose what they want to scrape from the website
+- feature 2: User can specify whether to output results to a file with an option flag
+- feature 3: User can choose what they want to 'lacerate' from the website.
+- additional features: native-unix
 ## User Interaction & Experience
 ### Outline:
 - How the user will get instructions and help from the app
@@ -48,8 +49,8 @@ Please send your log to your educator as a markdown file as you complete them. T
 ### Testing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDM1ODE3LDE3NzY5Mzg0MjQsLTE5Mj
-kxMjc0NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5MDI2
-NTExLC0yNTMzNDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMjU3LC
-0xMTY2MTI0NzUxXX0=
+eyJoaXN0b3J5IjpbLTE3NjMwMjI1MTksMTc3NjkzODQyNCwtMT
+kyOTEyNzQ0OCwtMjg5NTA5ODk1LC04Njk4ODc1MzYsLTE4MDkw
+MjY1MTEsLTI1MzM0OTY3NiwxMTM4NjQ1MTExLDE1NzY5NzEyNT
+csLTExNjYxMjQ3NTFdfQ==
 -->
