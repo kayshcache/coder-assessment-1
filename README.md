@@ -18,8 +18,9 @@ Cyber security analysts who are working in the Unix terminal, grepping, vimming,
 ## User Interaction & Experience
 ### Outline:
 ##### How the user will get instructions and help from the app
-The "-h" flag can be added to the command to get the full help. Otherwise, _argparse_ module will produce helpful responses when the commands given by 
-- How the user will interact and access the features
+The "-h" flag can be added to the command to get the full help. Otherwise, _argparse_ module will produce helpful responses when the commands given by the user don't match the requirements or can be expanded to specify more accurate output.
+##### How the user will interact and access the features
+The user will write a single line command including all options and flags to get the required operation from those specified in 
 - How will errors be handled and displayed
 ## Control Flow Diagram
 ![Figure 1.1 Control Flow Diagram](diagram.png)
@@ -50,8 +51,8 @@ Please send your log to your educator as a markdown file as you complete them. T
 ### Testing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQxNzYyNDAsMTc3NjkzODQyNCwtMT
-kyOTEyNzQ0OCwtMjg5NTA5ODk1LC04Njk4ODc1MzYsLTE4MDkw
-MjY1MTEsLTI1MzM0OTY3NiwxMTM4NjQ1MTExLDE1NzY5NzEyNT
-csLTExNjYxMjQ3NTFdfQ==
+eyJoaXN0b3J5IjpbLTMyMDcyNDI3MCwxNzc2OTM4NDI0LC0xOT
+I5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4NzUzNiwtMTgwOTAy
+NjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMTEsMTU3Njk3MTI1Ny
+wtMTE2NjEyNDc1MV19
 -->
