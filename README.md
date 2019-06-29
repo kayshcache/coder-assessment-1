@@ -11,7 +11,7 @@ Cyber security analysts who are working in the Unix terminal, grepping, vimming,
 ##### Explain - how a user will use it
 ## Features
 100 words each
-- feature 1: User can provide URL as CLI argument
+- feature 1: User can provide URL with the lacerate command as an argument 
 - feature 2: User can specify whether to output results to a file with an option flag
 - feature 3: User can choose what they want to 'lacerate' from the website.
 - additional features: native-Unix like running; light-weight and extensible; has a man page
@@ -22,7 +22,7 @@ The "-h" flag can be added to the command to get the full help. Otherwise, _argp
 ##### How the user will interact and access the features
 The user will write a single line command including all options and flags to get the required operation from those specified in the help page.
 ##### How will errors be handled and displayed
-Exception errors will only be displayed to the user specifically if resources aren't found at the URL given or the user is experiencing intern
+Exception errors will only be displayed to the user specifically if resources aren't found at the URL given or the user is experiencing internet connection problems. If resources are found at the specified URL but 
 ## Control Flow Diagram
 ![Figure 1.1 Control Flow Diagram](diagram.png)
 Note:
@@ -52,7 +52,7 @@ Please send your log to your educator as a markdown file as you complete them. T
 ### Testing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDExODEyMywxNzc2OTM4NDI0LC0xOT
+eyJoaXN0b3J5IjpbMTc0ODc5MjQyOCwxNzc2OTM4NDI0LC0xOT
 I5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4NzUzNiwtMTgwOTAy
 NjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMTEsMTU3Njk3MTI1Ny
 wtMTE2NjEyNDc1MV19
