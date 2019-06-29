@@ -12,8 +12,8 @@ Cyber security analysts who are working in the Unix terminal, grepping, vimming,
 ## Features
 100 words each
 - feature 1: User can provide URL with the lacerate command as an argument, making it possible to use this utility on any available HTTP asset.
-- feature 2: User can specify whether to output results to a file with an option flag.
-- feature 3: User can choose what they want to 'lacerate' from the website. For example, all links including the anchor and link text together. If no resource is found of the specified type, meta-tags from the head of the HTML document will be returned as default.
+- feature 2: User can specify whether to output results to a file with an option flag. The app will produce a CSV link file using a semi-colon to dimit any multiple instances of a 
+- feature 3: User can choose what they want to 'lacerate' from the website. For example, all links including the anchor and link text together. If no resource is found of the specified type, meta-tags from the head of the HTML document will be returned as default. Multiple lacerations can be produced with a single execution.
 - additional features: native-Unix like running; light-weight and extensible; has a man page
 ## User Interaction & Experience
 ### Outline:
@@ -52,7 +52,7 @@ Please send your log to your educator as a markdown file as you complete them. T
 ### Testing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzY3OTEwOCwxNzc2OTM4NDI0LC0xOT
+eyJoaXN0b3J5IjpbLTczOTIxNjMwMSwxNzc2OTM4NDI0LC0xOT
 I5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4NzUzNiwtMTgwOTAy
 NjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMTEsMTU3Njk3MTI1Ny
 wtMTE2NjEyNDc1MV19
