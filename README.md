@@ -24,7 +24,7 @@ The user will write a single line command including all options and flags to get
 ##### How will errors be handled and displayed
 Exception errors will only be displayed to the user specifically if resources aren't found at the URL given or the user is experiencing internet connection problems. If resources are found at the specified URL but 
 ## Control Flow Diagram
-![Figure 1.1 Control Flow Diagram](diagram.png)
+![Figure 1.1 Control Flow Diagram](https://kayshcache.github.com/lacerater.png)
 Note:
 - show the workflow/logic and/or integration of the features in your application for each feature.  
 - utilise a recognised format or set of conventions for a control flow diagram, such as UML.
