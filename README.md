@@ -7,17 +7,18 @@ It is designed to be simple and in future branches extensible.
 ##### Identify - the problem it will solve
 It will automate some of the most rudimentary browser-based inspection and information gathering techniques of ethical hackers during their initial analysis of a web application.
 ##### Identify - the target audience
-Cyber security analysts who are working in the unix terminal, grepping, vimming, and bashing data for reports with the intent of later performing deeper analysis of client web services.
+Cyber security analysts who are working in the Unix terminal, grepping, vimming, and bashing data for reports with the intent of later performing deeper analysis of client web services.
 ##### Explain - how a user will use it
 ## Features
 100 words each
 - feature 1: User can provide URL as CLI argument
 - feature 2: User can specify whether to output results to a file with an option flag
 - feature 3: User can choose what they want to 'lacerate' from the website.
-- additional features: native-unix
+- additional features: native-Unix like running; light-weight and extensible; hasman page
 ## User Interaction & Experience
 ### Outline:
-- How the user will get instructions and help from the app
+##### How the user will get instructions and help from the app
+The "-h" flag can be added to the command to get the full
 - How the user will interact and access the features
 - How will errors be handled and displayed
 ## Control Flow Diagram
@@ -49,8 +50,8 @@ Please send your log to your educator as a markdown file as you complete them. T
 ### Testing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjMwMjI1MTksMTc3NjkzODQyNCwtMT
-kyOTEyNzQ0OCwtMjg5NTA5ODk1LC04Njk4ODc1MzYsLTE4MDkw
-MjY1MTEsLTI1MzM0OTY3NiwxMTM4NjQ1MTExLDE1NzY5NzEyNT
-csLTExNjYxMjQ3NTFdfQ==
+eyJoaXN0b3J5IjpbMTMzNDg3NDA1OCwxNzc2OTM4NDI0LC0xOT
+I5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4NzUzNiwtMTgwOTAy
+NjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMTEsMTU3Njk3MTI1Ny
+wtMTE2NjEyNDc1MV19
 -->
