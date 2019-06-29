@@ -45,15 +45,18 @@ Task priorities & deadlines
 [Please see development_log.md](src/development_log.md)
 Please send your log to your educator as a markdown file as you complete them. This is so we can provide you with feedback.
 ## Help File
-#### Steps to install
-#### Dependencies
-#### System/hardware requirements
+###### Steps to install
+Install from source for unix systems only
+###### Dependencies
+Python 3+
+###### System/hardware requirements
+Minimum requirements 
 #### Explanation of features
 ### Testing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODQ1NTcxMCwxNzc2OTM4NDI0LC0xOT
-I5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4NzUzNiwtMTgwOTAy
-NjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMTEsMTU3Njk3MTI1Ny
-wtMTE2NjEyNDc1MV19
+eyJoaXN0b3J5IjpbLTE3MTUzMTI0MjMsLTQwODQ1NTcxMCwxNz
+c2OTM4NDI0LC0xOTI5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4
+NzUzNiwtMTgwOTAyNjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMT
+EsMTU3Njk3MTI1NywtMTE2NjEyNDc1MV19
 -->
