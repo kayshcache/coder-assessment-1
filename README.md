@@ -50,12 +50,15 @@ Install from source for unix systems only
 ###### Dependencies
 Python 3+
 ###### System/hardware requirements
-Minimum requirements 
-#### Explanation of features
+Minimum requirements 2gb RAM x86
+###### Explanation of features
+Get data from websites
+Specify what information to scrape from a web page using flags
+
 ### Testing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTUzMTI0MjMsLTQwODQ1NTcxMCwxNz
+eyJoaXN0b3J5IjpbLTE0MDUxMzYwNDUsLTQwODQ1NTcxMCwxNz
 c2OTM4NDI0LC0xOTI5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4
 NzUzNiwtMTgwOTAyNjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMT
 EsMTU3Njk3MTI1NywtMTE2NjEyNDc1MV19
