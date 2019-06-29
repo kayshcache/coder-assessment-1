@@ -56,10 +56,10 @@ Get data from websites
 Specify what information to scrape from a web page using flags
 
 ### Testing
-
+An **outline** of the testing procedure and cases should be included with the source code of the application and written in markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDUxMzYwNDUsLTQwODQ1NTcxMCwxNz
-c2OTM4NDI0LC0xOTI5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4
-NzUzNiwtMTgwOTAyNjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMT
-EsMTU3Njk3MTI1NywtMTE2NjEyNDc1MV19
+eyJoaXN0b3J5IjpbODE3NzQzMjgwLC00MDg0NTU3MTAsMTc3Nj
+kzODQyNCwtMTkyOTEyNzQ0OCwtMjg5NTA5ODk1LC04Njk4ODc1
+MzYsLTE4MDkwMjY1MTEsLTI1MzM0OTY3NiwxMTM4NjQ1MTExLD
+E1NzY5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
 -->
