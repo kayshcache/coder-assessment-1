@@ -12,7 +12,7 @@ Cyber security analysts who are working in the Unix terminal, grepping, 'vimming
 ##### Explain - how a user will use it
 ## Features
 ##### 100 words each
-- F1: User can provide URL with the lacerate command as an argument, making it possible to use this utility on any available HTTP GETable asset. The app is web-url agnostic
+- F1: User can provide URL with the lacerate command as an argument, making it possible to use this utility on any available HTTP GETable asset.
 - F2: User can specify whether to output results to a file with an option flag. The app will produce a CSV link file using a semi-colon to delimit any multiple instances of an HTML tag or attribute.
 - F3: User can choose what they want to 'lacerate' from the website. For example, all links including the anchor and link text together. If no resource is found of the specified type, meta-tags from the head of the HTML document will be returned as default. Multiple lacerations can be produced with a single execution.
 - additional features: native-Unix like running; light-weight and extensible; has a man page
@@ -25,7 +25,7 @@ The user will write a single line command including all options and flags to get
 ##### How will errors be handled and displayed
 Exception errors will only be displayed to the user specifically if resources aren't found at the URL given or the user is experiencing internet connection problems. If resources are found at the specified URL but 
 ## Control Flow Diagram
-![Figure 1.1 Control Flow Diagram](https://github.com/kayshcache/coder-assessment-1/raw/master/lacerater.png)
+![Figure 0.0 Control Flow Diagram](https://github.com/kayshcache/coder-assessment-1/raw/master/lacerater.png)
 Note:
 - show the workflow/logic and/or integration of the features in your application for each feature.  
 - utilise a recognised format or set of conventions for a control flow diagram, such as UML.
@@ -60,9 +60,9 @@ Specify what information to scrape from a web page using flags
 ### Testing
 An **outline** of the testing procedure and cases should be included with the source code of the application and written in markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2MjY4ODA3LDIwODIzNTA3NzYsMTc4MD
-cxODk3NiwtNDA4NDU1NzEwLDE3NzY5Mzg0MjQsLTE5MjkxMjc0
-NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5MDI2NTExLC
-0yNTMzNDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMjU3LC0xMTY2
-MTI0NzUxXX0=
+eyJoaXN0b3J5IjpbMTQyMTUwMzU4MSwyMDgyMzUwNzc2LDE3OD
+A3MTg5NzYsLTQwODQ1NTcxMCwxNzc2OTM4NDI0LC0xOTI5MTI3
+NDQ4LC0yODk1MDk4OTUsLTg2OTg4NzUzNiwtMTgwOTAyNjUxMS
+wtMjUzMzQ5Njc2LDExMzg2NDUxMTEsMTU3Njk3MTI1NywtMTE2
+NjEyNDc1MV19
 -->
