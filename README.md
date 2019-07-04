@@ -8,11 +8,11 @@ The thing to know about this app is that it is actually just a phony hacker tool
 ##### Identify - the problem it will solve
 It will automate some of the most rudimentary browser-based inspection and information gathering techniques of ethical hackers during their initial analysis of a web application.
 ##### Identify - the target audience
-Cyber security analysts who are working in the Unix terminal, grepping, 'vimming', and bashing data for reports with the intent of later performing deeper analysis of client web services. This is the statement of a hollywood audience. The most suitable audience for this app would be a filmmaker 
+Cyber security analysts who are working in the Unix terminal, grepping, 'vimming', and bashing data for reports with the intent of later performing deeper analysis of client web services. This is the statement of a hollywood audience. The most suitable audience for this app would be a filmmaker in need of things that are harmless to make hacking look cool in a dumb movie for an ignorant audience. LACERATE!
 ##### Explain - how a user will use it
 ## Features
 ##### 100 words each
-- F1: User can provide URL with the lacerate command as an argument, making it possible to use this utility on any available HTTP GETable asset.
+- F1: User can provide URL with the lacerate command as an argument, making it possible to use this utility on any available HTTP GETable asset. The app is web-url agnostic
 - F2: User can specify whether to output results to a file with an option flag. The app will produce a CSV link file using a semi-colon to delimit any multiple instances of an HTML tag or attribute.
 - F3: User can choose what they want to 'lacerate' from the website. For example, all links including the anchor and link text together. If no resource is found of the specified type, meta-tags from the head of the HTML document will be returned as default. Multiple lacerations can be produced with a single execution.
 - additional features: native-Unix like running; light-weight and extensible; has a man page
@@ -60,9 +60,9 @@ Specify what information to scrape from a web page using flags
 ### Testing
 An **outline** of the testing procedure and cases should be included with the source code of the application and written in markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY3MDY3MDAsMjA4MjM1MDc3NiwxNz
-gwNzE4OTc2LC00MDg0NTU3MTAsMTc3NjkzODQyNCwtMTkyOTEy
-NzQ0OCwtMjg5NTA5ODk1LC04Njk4ODc1MzYsLTE4MDkwMjY1MT
-EsLTI1MzM0OTY3NiwxMTM4NjQ1MTExLDE1NzY5NzEyNTcsLTEx
-NjYxMjQ3NTFdfQ==
+eyJoaXN0b3J5IjpbMzg2MjY4ODA3LDIwODIzNTA3NzYsMTc4MD
+cxODk3NiwtNDA4NDU1NzEwLDE3NzY5Mzg0MjQsLTE5MjkxMjc0
+NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5MDI2NTExLC
+0yNTMzNDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMjU3LC0xMTY2
+MTI0NzUxXX0=
 -->
