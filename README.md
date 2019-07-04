@@ -3,9 +3,9 @@
 ###### 300 - 500 words:
 ###### Describe - what the app will do.
 This app, dubbed Lacerater, will use HTTP Request methods to acquire data and information from any website. It runs only in the terminal, in that the only interface is the command line arguments, flags, and options. It will produce output to the terminal window that can be piped to other apps or methods in the terminal as well as produce an output file if the user includes that option when the command is run. 
-It is designed to be simple and in future branches extensible.
+It is designed to be simple and in future versions extensible.
 ##### Identify - the problem it will solve
-It will automate some of the most rudimentary browser-based inspection and information gathering techniques of ethical hackers during their initial analysis of a web application.
+It will simuautomate some of the most rudimentary browser-based inspection and information gathering techniques of ethical hackers during their initial analysis of a web application.
 ##### Identify - the target audience
 Cyber security analysts who are working in the Unix terminal, grepping, vimming, and bashing data for reports with the intent of later performing deeper analysis of client web services.
 ##### Explain - how a user will use it
@@ -59,9 +59,9 @@ Specify what information to scrape from a web page using flags
 ### Testing
 An **outline** of the testing procedure and cases should be included with the source code of the application and written in markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjM1MDc3NiwxNzgwNzE4OTc2LC00MD
-g0NTU3MTAsMTc3NjkzODQyNCwtMTkyOTEyNzQ0OCwtMjg5NTA5
-ODk1LC04Njk4ODc1MzYsLTE4MDkwMjY1MTEsLTI1MzM0OTY3Ni
-wxMTM4NjQ1MTExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
-
+eyJoaXN0b3J5IjpbOTM3NjgwNTI3LDIwODIzNTA3NzYsMTc4MD
+cxODk3NiwtNDA4NDU1NzEwLDE3NzY5Mzg0MjQsLTE5MjkxMjc0
+NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5MDI2NTExLC
+0yNTMzNDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMjU3LC0xMTY2
+MTI0NzUxXX0=
 -->
