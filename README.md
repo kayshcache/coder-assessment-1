@@ -19,7 +19,7 @@ Cyber security analysts who are working in the Unix terminal, grepping, 'vimming
 ## User Interaction & Experience
 ### Outline:
 ##### How the user will get instructions and help from the app
-The "-h" flag can be added to the command to get the full help. Otherwise, _argparse_ module will produce helpful responses when the commands given by the user don't match the requirements or can be expanded to specify more accurate output.
+The "-h" flag can be added to the command to get the full help. Otherwise, *argparse* and *requests* modules will produce helpful responses when the commands given by the user don't match the requirements or can be expanded to specify more accurate output.
 ##### How the user will interact and access the features
 The user will write a single line command including all options and flags to get the required operation from those specified in the help page.
 ##### How will errors be handled and displayed
@@ -60,9 +60,9 @@ Specify what information to scrape from a web page using flags
 ### Testing
 An **outline** of the testing procedure and cases should be included with the source code of the application and written in markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDAzMjcxNzEsMjA4MjM1MDc3NiwxNz
-gwNzE4OTc2LC00MDg0NTU3MTAsMTc3NjkzODQyNCwtMTkyOTEy
-NzQ0OCwtMjg5NTA5ODk1LC04Njk4ODc1MzYsLTE4MDkwMjY1MT
-EsLTI1MzM0OTY3NiwxMTM4NjQ1MTExLDE1NzY5NzEyNTcsLTEx
-NjYxMjQ3NTFdfQ==
+eyJoaXN0b3J5IjpbNTg5NTc0NzgxLDIwODIzNTA3NzYsMTc4MD
+cxODk3NiwtNDA4NDU1NzEwLDE3NzY5Mzg0MjQsLTE5MjkxMjc0
+NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5MDI2NTExLC
+0yNTMzNDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMjU3LC0xMTY2
+MTI0NzUxXX0=
 -->
