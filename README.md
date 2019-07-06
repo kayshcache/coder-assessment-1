@@ -5,10 +5,11 @@
 Lacerater uses HTTP Request methods to acquire data and information from websites. It runs only in the terminal, in that the only interface is the command line arguments, flags, and options. It will produce output to the terminal window that can be piped to other apps or methods in the terminal as well as produce an output file if the user includes that option when the command is run. 
 It is designed to be simple and in future versions extensible.
 ##### Identify - the problem it will solve
-It will automate some of the most rudimentary browser-based inspection and information gathering techniques of ethical hackers during their initial analysis of a web application.
+It will automate some of the most rudimentary browser-based inspection and information gathering techniques of ethical hackers during their initial analysis of a web application. There are all together too few useless programs on github, this project will change the world and disrupt the industry in this way specifically.
 ##### Identify - the target audience
 Cyber security analysts who are working in the Unix terminal, grepping, 'vimming', and bashing data for reports with the intent of later performing deeper analysis of client web services. The most suitable audience for this app would be a filmmaker in need of things that are harmless to make hacking look cool in a dumb movie for an ignorant audience. LACERATE!
 ##### Explain - how a user will use it
+Type the command into the shell to see the basic help (eg. what arguments are required), then select your options and don't forget to include a URL to slice n dice.
 ## Features
 ##### 100 words each
 - f1: User can provide URL with the `lacerate` command as an argument, making it possible to use this utility on any available HTTP GETable asset. This is a nice way to quickly acquire data from any server with a public address - users will be very enthralled by this feature, there will be joy jumping hackers across the globe.
@@ -28,25 +29,28 @@ Exception errors will only be displayed to the user specifically if resources ar
 ## Implementation Plan
 Priority of tasks are marked with P0 - P2 with P0 to represent the highest priority being zero priority, in that it is indexed from zero (as all things should be by law). It may be that these task in fact have zero priority in the world as well.
 Priority 1 tasks = P0, Priority 2 tasks = P1, Priority 3 tasks = P2
+Time will take is written in square brackets
 ### Feature 1 - " Provide URL as Argument Feature"
-- Task 1 (P1) write the argument into the main function
-- Task 2 (P2) 
-- Task 3
-- Task 4
-- Task 5
+- Task 1 (P1) write the argument into the main function [10 -30 minutes]
+- Task 2 (P2) test it [10 -30 minutes]
+- Task 3 (P0) try with funky URLs [10 -30 minutes]
+- Task 4 (P2) think of additional tasks to describe here [1 minute]
+- Task 5 (P0) describe those addition tasks such as aforementioned task ie. this task [10 -30 minutes]
 ### Feature 2 - " Output to file"
-- Task 1 (P1) decide on what file type the user should create
-- Task 2 
-- Task 3
-- Task 4
-- Task 5
+- Task 1 (P1) decide on what file type the user should create [10 -30 minutes]
+- Task 2 (P1) write the argument into the main function [10 -30 minutes]
+- Task 3 (P1) write the function to write binary files [1 hour]
+- Task 4 (P0) hook function into argument flow control [10 -30 minutes]
+- Task 5 (P2) dance a bit [all night]
 ### Feature 3 - " Choose from laceration options"
-- Task 1 (P1) decide on total set of options
-- Task 2
-- Task 3
-- Task 4
-- Task 5
-[See trello screen snips for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello0.png)
+- Task 1 (P1) decide on total set of options [10 -30 minutes]
+- Task 2 (P0) put those options into the control flow to be processed by argparse [1 hour]
+- Task 3 (P2) think of cooler things to be doing than describing task breakdowns [10 -30 minutes]
+- Task 4 (P0) get some sleep so to be able to do the graveyard shift at crappy hostel and not become homeless [countless hours]
+- Task 5 (P2) feel shame about creating unprofessional documentation [lifetime]
+![See trello screen snip for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello0.png)
+![See trello screen snip for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello1.png)
+![See trello screen snip for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello2.png)
 ## Developer Log
 [Please see development_log.md](https://github.com/kayshcache/coder-assessment-1/raw/master/DEV_LOG.md)
 ## Help File
@@ -59,15 +63,16 @@ Modules from PyPI: Requests, Beautiful Soup, Argparse
 Minimum requirements: Python 3.4 128mb RAM x86_64, ARM, i386
 ###### Explanation of features
 Get data from websites
-Specify what information to scrape from a web page using flags
+Specify what information to get from a web page using flags
 
 ### Testing
-Test file included, run pytest from application directory.
+Test file included, run pytest with shell from application directory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzI0MDM5MCwtMTczMjMzNjExMCwzNT
-kzNTk1MzEsLTE3NjE3OTIwMzMsNTg5NTc0NzgxLDIwODIzNTA3
-NzYsMTc4MDcxODk3NiwtNDA4NDU1NzEwLDE3NzY5Mzg0MjQsLT
-E5MjkxMjc0NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5
-MDI2NTExLC0yNTMzNDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMj
-U3LC0xMTY2MTI0NzUxXX0=
+eyJoaXN0b3J5IjpbLTE2NzkyMDE1ODgsMjAzOTQ1Njk5OSwxNz
+M3MjQwMzkwLC0xNzMyMzM2MTEwLDM1OTM1OTUzMSwtMTc2MTc5
+MjAzMyw1ODk1NzQ3ODEsMjA4MjM1MDc3NiwxNzgwNzE4OTc2LC
+00MDg0NTU3MTAsMTc3NjkzODQyNCwtMTkyOTEyNzQ0OCwtMjg5
+NTA5ODk1LC04Njk4ODc1MzYsLTE4MDkwMjY1MTEsLTI1MzM0OT
+Y3NiwxMTM4NjQ1MTExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NTFd
+fQ==
 -->
