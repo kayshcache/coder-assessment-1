@@ -48,6 +48,8 @@ Time will take is written in square brackets
 - Task 4 (P0) get some sleep so to be able to do the graveyard shift at crappy hostel and not become homeless [countless hours]
 - Task 5 (P2) feel shame about creating unprofessional documentation [lifetime]
 [See trello screen snips for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello0.png)
+[See trello screen snips for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello1.png)
+[See trello screen snips for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello2.png)
 ## Developer Log
 [Please see development_log.md](https://github.com/kayshcache/coder-assessment-1/raw/master/DEV_LOG.md)
 ## Help File
@@ -65,10 +67,10 @@ Specify what information to scrape from a web page using flags
 ### Testing
 Test file included, run pytest from application directory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODgxNDU1NTgsMTczNzI0MDM5MCwtMT
-czMjMzNjExMCwzNTkzNTk1MzEsLTE3NjE3OTIwMzMsNTg5NTc0
-NzgxLDIwODIzNTA3NzYsMTc4MDcxODk3NiwtNDA4NDU1NzEwLD
-E3NzY5Mzg0MjQsLTE5MjkxMjc0NDgsLTI4OTUwOTg5NSwtODY5
-ODg3NTM2LC0xODA5MDI2NTExLC0yNTMzNDk2NzYsMTEzODY0NT
-ExMSwxNTc2OTcxMjU3LC0xMTY2MTI0NzUxXX0=
+eyJoaXN0b3J5IjpbODg0ODk1Mzk3LDE3MzcyNDAzOTAsLTE3Mz
+IzMzYxMTAsMzU5MzU5NTMxLC0xNzYxNzkyMDMzLDU4OTU3NDc4
+MSwyMDgyMzUwNzc2LDE3ODA3MTg5NzYsLTQwODQ1NTcxMCwxNz
+c2OTM4NDI0LC0xOTI5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4
+NzUzNiwtMTgwOTAyNjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMT
+EsMTU3Njk3MTI1NywtMTE2NjEyNDc1MV19
 -->
