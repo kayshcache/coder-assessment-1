@@ -46,6 +46,7 @@ Priority 1 tasks = P0, Priority 2 tasks = P1, Priority 3 tasks = P2
 - Task 3
 - Task 4
 - Task 5
+[See trello screen snips for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello0.png)
 ## Developer Log
 [Please see development_log.md](https://github.com/kayshcache/coder-assessment-1/raw/master/DEV_LOG.md)
 ## Help File
@@ -63,7 +64,7 @@ Specify what information to scrape from a web page using flags
 ### Testing
 Test file included, run pytest from application directory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTMwODY1MCwtMTczMjMzNjExMCwzNT
+eyJoaXN0b3J5IjpbMTczNzI0MDM5MCwtMTczMjMzNjExMCwzNT
 kzNTk1MzEsLTE3NjE3OTIwMzMsNTg5NTc0NzgxLDIwODIzNTA3
 NzYsMTc4MDcxODk3NiwtNDA4NDU1NzEwLDE3NzY5Mzg0MjQsLT
 E5MjkxMjc0NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5
