@@ -29,19 +29,23 @@ Exception errors will only be displayed to the user specifically if resources ar
 Priority of tasks are marked with P0 - P2 with P0 to represent the highest priority being zero priority, in that it is indexed from zero (as all things should be by law). It may be that these task in fact have zero priority in the world as well.
 Priority 1 tasks = P0, Priority 2 tasks = P1, Priority 3 tasks = P2
 ### Feature 1 - " Provide URL as Argument Feature"
-Task 1: (P1) decide on 
-Task 2
-Task 3
-Task 4
-Task 5
-### Feature 2 - " "
-Outline of how to implement
-**5 minimum** Task breakdown (checklist)
-Task priorities & deadlines
-### Feature 3 - " "
-Outline of how to implement
-**5 minimum** Task breakdown (checklist)
-Task priorities & deadlines
+- Task 1: (P1) decide on 
+- Task 2
+- Task 3
+- Task 4
+- Task 5
+### Feature 2 - " Output to file"
+- Task 1: (P1) decide on 
+- Task 2
+- Task 3
+- Task 4
+- Task 5
+### Feature 3 - " Choose from laceration options"
+- Task 1: (P1) decide on 
+- Task 2
+- Task 3
+- Task 4
+- Task 5
 ## Developer Log
 [Please see development_log.md](https://github.com/kayshcache/coder-assessment-1/raw/master/DEV_LOG.md)
 ## Help File
@@ -59,7 +63,7 @@ Specify what information to scrape from a web page using flags
 ### Testing
 Test file included, run pytest from application directory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTA2OTIzMSwtMTczMjMzNjExMCwzNT
+eyJoaXN0b3J5IjpbLTY3NTk0MDExMywtMTczMjMzNjExMCwzNT
 kzNTk1MzEsLTE3NjE3OTIwMzMsNTg5NTc0NzgxLDIwODIzNTA3
 NzYsMTc4MDcxODk3NiwtNDA4NDU1NzEwLDE3NzY5Mzg0MjQsLT
 E5MjkxMjc0NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5
