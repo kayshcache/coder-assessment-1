@@ -35,13 +35,13 @@ Priority 1 tasks = P0, Priority 2 tasks = P1, Priority 3 tasks = P2
 - Task 4
 - Task 5
 ### Feature 2 - " Output to file"
-- Task 1: (P1) decide on what file type the user should create
+- Task 1 (P1) decide on what file type the user should create
 - Task 2 
 - Task 3
 - Task 4
 - Task 5
 ### Feature 3 - " Choose from laceration options"
-- Task 1: (P1) decide on total set of options
+- Task 1 (P1) decide on total set of options
 - Task 2
 - Task 3
 - Task 4
@@ -63,7 +63,7 @@ Specify what information to scrape from a web page using flags
 ### Testing
 Test file included, run pytest from application directory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Mzc1OTU3NiwtMTczMjMzNjExMCwzNT
+eyJoaXN0b3J5IjpbMTkyOTMwODY1MCwtMTczMjMzNjExMCwzNT
 kzNTk1MzEsLTE3NjE3OTIwMzMsNTg5NTc0NzgxLDIwODIzNTA3
 NzYsMTc4MDcxODk3NiwtNDA4NDU1NzEwLDE3NzY5Mzg0MjQsLT
 E5MjkxMjc0NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5
