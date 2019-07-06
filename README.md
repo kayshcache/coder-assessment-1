@@ -12,7 +12,7 @@ Cyber security analysts who are working in the Unix terminal, grepping, 'vimming
 ## Features
 ##### 100 words each
 - f1: User can provide URL with the lacerate command as an argument, making it possible to use this utility on any available HTTP GETable asset.
-- f2: User can specify whether to output results to a file with the option flag --file. The app will produce a file using a semi-colon to delimit any multiple instances of an HTML tag or attribute.
+- f2: User can specify whether to output results to a file with the option flag --file. The app will produce a generic binary file.
 - f3: User can choose what they want to *lacerate* from the website. For example, all links including the anchor and link text together. If no resource is found of the specified type, meta-tags from the head of the HTML document will be returned as default. Multiple lacerations can be produced with a single execution.
 - additional features: native-Unix like running; light-weight and extensible; has a man page
 ## User Interaction & Experience
@@ -59,9 +59,9 @@ Specify what information to scrape from a web page using flags
 ### Testing
 An **outline** of the testing procedure and cases should be included with the source code of the application and written in markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDEyOTE4ODksNTg5NTc0NzgxLDIwOD
-IzNTA3NzYsMTc4MDcxODk3NiwtNDA4NDU1NzEwLDE3NzY5Mzg0
-MjQsLTE5MjkxMjc0NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC
-0xODA5MDI2NTExLC0yNTMzNDk2NzYsMTEzODY0NTExMSwxNTc2
-OTcxMjU3LC0xMTY2MTI0NzUxXX0=
+eyJoaXN0b3J5IjpbLTY3ODA3MzU1LDU4OTU3NDc4MSwyMDgyMz
+UwNzc2LDE3ODA3MTg5NzYsLTQwODQ1NTcxMCwxNzc2OTM4NDI0
+LC0xOTI5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4NzUzNiwtMT
+gwOTAyNjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMTEsMTU3Njk3
+MTI1NywtMTE2NjEyNDc1MV19
 -->
