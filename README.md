@@ -5,7 +5,7 @@
 Lacerater uses HTTP Request methods to acquire data and information from websites. It runs only in the terminal, in that the only interface is the command line arguments, flags, and options. It will produce output to the terminal window that can be piped to other apps or methods in the terminal as well as produce an output file if the user includes that option when the command is run. 
 It is designed to be simple and in future versions extensible.
 ##### Identify - the problem it will solve
-It will automate some of the most rudimentary browser-based inspection and information gathering techniques of ethical hackers during their initial analysis of a web application. There are all together too few useless programs on github, this project will change t
+It will automate some of the most rudimentary browser-based inspection and information gathering techniques of ethical hackers during their initial analysis of a web application. There are all together too few useless programs on github, this project will change the world and disrupt the industry in this way specifically.
 ##### Identify - the target audience
 Cyber security analysts who are working in the Unix terminal, grepping, 'vimming', and bashing data for reports with the intent of later performing deeper analysis of client web services. The most suitable audience for this app would be a filmmaker in need of things that are harmless to make hacking look cool in a dumb movie for an ignorant audience. LACERATE!
 ##### Explain - how a user will use it
@@ -48,9 +48,9 @@ Time will take is written in square brackets
 - Task 3 (P2) think of cooler things to be doing than describing task breakdowns [10 -30 minutes]
 - Task 4 (P0) get some sleep so to be able to do the graveyard shift at crappy hostel and not become homeless [countless hours]
 - Task 5 (P2) feel shame about creating unprofessional documentation [lifetime]
-[See trello screen snips for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello0.png)
-[See trello screen snips for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello1.png)
-[See trello screen snips for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello2.png)
+![See trello screen snips for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello0.png)
+![See trello screen snips for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello1.png)
+![See trello screen snips for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello2.png)
 ## Developer Log
 [Please see development_log.md](https://github.com/kayshcache/coder-assessment-1/raw/master/DEV_LOG.md)
 ## Help File
@@ -68,7 +68,7 @@ Specify what information to get from a web page using flags
 ### Testing
 Test file included, run pytest with shell from application directory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzgyMjM4MiwxNzM3MjQwMzkwLC0xNz
+eyJoaXN0b3J5IjpbMjAzOTQ1Njk5OSwxNzM3MjQwMzkwLC0xNz
 MyMzM2MTEwLDM1OTM1OTUzMSwtMTc2MTc5MjAzMyw1ODk1NzQ3
 ODEsMjA4MjM1MDc3NiwxNzgwNzE4OTc2LC00MDg0NTU3MTAsMT
 c3NjkzODQyNCwtMTkyOTEyNzQ0OCwtMjg5NTA5ODk1LC04Njk4
