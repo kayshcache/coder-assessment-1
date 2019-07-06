@@ -2,29 +2,29 @@
 ## Statement of Purpose & Scope
 ###### 300 - 500 words:
 ###### Describe - what the app will do.
-This app, dubbed Lacerater, will use HTTP Request methods to acquire data and information from any website. It runs only in the terminal, in that the only interface is the command line arguments, flags, and options. It will produce output to the terminal window that can be piped to other apps or methods in the terminal as well as produce an output file if the user includes that option when the command is run. 
-It is designed to be simple and in future branches extensible.
+Lacerater uses HTTP Request methods to acquire data and information from websites. It runs only in the terminal, in that the only interface is the command line arguments, flags, and options. It will produce output to the terminal window that can be piped to other apps or methods in the terminal as well as produce an output file if the user includes that option when the command is run. 
+It is designed to be simple and in future versions extensible.
 ##### Identify - the problem it will solve
 It will automate some of the most rudimentary browser-based inspection and information gathering techniques of ethical hackers during their initial analysis of a web application.
 ##### Identify - the target audience
-Cyber security analysts who are working in the Unix terminal, grepping, vimming, and bashing data for reports with the intent of later performing deeper analysis of client web services.
+Cyber security analysts who are working in the Unix terminal, grepping, 'vimming', and bashing data for reports with the intent of later performing deeper analysis of client web services. The most suitable audience for this app would be a filmmaker in need of things that are harmless to make hacking look cool in a dumb movie for an ignorant audience. LACERATE!
 ##### Explain - how a user will use it
 ## Features
 ##### 100 words each
-- F1: User can provide URL with the lacerate command as an argument, making it possible to use this utility on any available HTTP GETable asset.
-- F2: User can specify whether to output results to a file with an option flag. The app will produce a CSV link file using a semi-colon to delimit any multiple instances of an HTML tag or attribute.
-- F3: User can choose what they want to 'lacerate' from the website. For example, all links including the anchor and link text together. If no resource is found of the specified type, meta-tags from the head of the HTML document will be returned as default. Multiple lacerations can be produced with a single execution.
+- f1: User can provide URL with the `lacerate` command as an argument, making it possible to use this utility on any available HTTP GETable asset. This is a nice way to quickly acquire data from any server with a public address - users will be very enthralled by this feature, there will be joy jumping hackers across the globe.
+- f2: User can specify whether to output results to a file with the option `--file`. The app will produce a generic binary file containing the data that was located at the specified URL. This state-of-the-art almost mystical level feature will be likely to excite even the most stoic web professional.
+- f3: User can choose what they want to *lacerate* from the website. For example, all links including the anchor and link text together. If no resource is found of the specified type, meta-tags from the head of the HTML document will be returned as default. Multiple lacerations can be produced with a single execution.
 - additional features: native-Unix like running; light-weight and extensible; has a man page
 ## User Interaction & Experience
 ### Outline:
 ##### How the user will get instructions and help from the app
-The "-h" flag can be added to the command to get the full help. Otherwise, _argparse_ module will produce helpful responses when the commands given by the user don't match the requirements or can be expanded to specify more accurate output.
+The "-h" flag can be added to the command to get the full help. Otherwise, *argparse* and *requests* modules will produce helpful responses when the commands given by the user don't match the requirements or can be expanded to specify more accurate output.
 ##### How the user will interact and access the features
 The user will write a single line command including all options and flags to get the required operation from those specified in the help page.
 ##### How will errors be handled and displayed
 Exception errors will only be displayed to the user specifically if resources aren't found at the URL given or the user is experiencing internet connection problems. If resources are found at the specified URL but 
 ## Control Flow Diagram
-![Figure 1.1 Control Flow Diagram](https://github.com/kayshcache/coder-assessment-1/raw/master/lacerater.png)
+![Figure 0.0 Control Flow Diagram](https://github.com/kayshcache/coder-assessment-1/raw/master/lacerater.png)
 Note:
 - show the workflow/logic and/or integration of the features in your application for each feature.  
 - utilise a recognised format or set of conventions for a control flow diagram, such as UML.
@@ -59,9 +59,9 @@ Specify what information to scrape from a web page using flags
 ### Testing
 An **outline** of the testing procedure and cases should be included with the source code of the application and written in markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjM1MDc3NiwxNzgwNzE4OTc2LC00MD
-g0NTU3MTAsMTc3NjkzODQyNCwtMTkyOTEyNzQ0OCwtMjg5NTA5
-ODk1LC04Njk4ODc1MzYsLTE4MDkwMjY1MTEsLTI1MzM0OTY3Ni
-wxMTM4NjQ1MTExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
-
+eyJoaXN0b3J5IjpbLTE3NjE3OTIwMzMsNTg5NTc0NzgxLDIwOD
+IzNTA3NzYsMTc4MDcxODk3NiwtNDA4NDU1NzEwLDE3NzY5Mzg0
+MjQsLTE5MjkxMjc0NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC
+0xODA5MDI2NTExLC0yNTMzNDk2NzYsMTEzODY0NTExMSwxNTc2
+OTcxMjU3LC0xMTY2MTI0NzUxXX0=
 -->
