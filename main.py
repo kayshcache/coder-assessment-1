@@ -1,5 +1,0 @@
-print('Hollow world!')
-print('Mellow world!')
-print('Swallow soil!')
-print('Shallow toil!')
-print('Harrow halls!')
