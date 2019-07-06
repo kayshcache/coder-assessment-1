@@ -5,11 +5,11 @@
 Lacerater uses HTTP Request methods to acquire data and information from websites. It runs only in the terminal, in that the only interface is the command line arguments, flags, and options. It will produce output to the terminal window that can be piped to other apps or methods in the terminal as well as produce an output file if the user includes that option when the command is run. 
 It is designed to be simple and in future versions extensible.
 ##### Identify - the problem it will solve
-It will automate some of the most rudimentary browser-based inspection and information gathering techniques of ethical hackers during their initial analysis of a web application.
+It will automate some of the most rudimentary browser-based inspection and information gathering techniques of ethical hackers during their initial analysis of a web application. There are all together too few useless programs on github, this project will change t
 ##### Identify - the target audience
 Cyber security analysts who are working in the Unix terminal, grepping, 'vimming', and bashing data for reports with the intent of later performing deeper analysis of client web services. The most suitable audience for this app would be a filmmaker in need of things that are harmless to make hacking look cool in a dumb movie for an ignorant audience. LACERATE!
 ##### Explain - how a user will use it
-Type the command into the shell to see the basic help
+Type the command into the shell to see the basic help (eg. what arguments are required), then select your options and don't forget to include a URL to slice n dice.
 ## Features
 ##### 100 words each
 - f1: User can provide URL with the `lacerate` command as an argument, making it possible to use this utility on any available HTTP GETable asset. This is a nice way to quickly acquire data from any server with a public address - users will be very enthralled by this feature, there will be joy jumping hackers across the globe.
@@ -68,10 +68,10 @@ Specify what information to get from a web page using flags
 ### Testing
 Test file included, run pytest with shell from application directory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgzMDY1MzQsMTczNzI0MDM5MCwtMT
-czMjMzNjExMCwzNTkzNTk1MzEsLTE3NjE3OTIwMzMsNTg5NTc0
-NzgxLDIwODIzNTA3NzYsMTc4MDcxODk3NiwtNDA4NDU1NzEwLD
-E3NzY5Mzg0MjQsLTE5MjkxMjc0NDgsLTI4OTUwOTg5NSwtODY5
-ODg3NTM2LC0xODA5MDI2NTExLC0yNTMzNDk2NzYsMTEzODY0NT
-ExMSwxNTc2OTcxMjU3LC0xMTY2MTI0NzUxXX0=
+eyJoaXN0b3J5IjpbMTg4MzgyMjM4MiwxNzM3MjQwMzkwLC0xNz
+MyMzM2MTEwLDM1OTM1OTUzMSwtMTc2MTc5MjAzMyw1ODk1NzQ3
+ODEsMjA4MjM1MDc3NiwxNzgwNzE4OTc2LC00MDg0NTU3MTAsMT
+c3NjkzODQyNCwtMTkyOTEyNzQ0OCwtMjg5NTA5ODk1LC04Njk4
+ODc1MzYsLTE4MDkwMjY1MTEsLTI1MzM0OTY3NiwxMTM4NjQ1MT
+ExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
 -->
