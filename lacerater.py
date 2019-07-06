@@ -54,7 +54,7 @@ def download_url(url):
         return url_obj
     except Exception as exc:
         print(f'Problem with: {exc}')
-        quit()
+        quit() # If any problem occurs with getting the URL data then the program just quits, usr can try again
 
 def parse_source(response_obj):
     '''
