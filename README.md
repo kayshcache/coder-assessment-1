@@ -9,6 +9,7 @@ It will automate some of the most rudimentary browser-based inspection and infor
 ##### Identify - the target audience
 Cyber security analysts who are working in the Unix terminal, grepping, 'vimming', and bashing data for reports with the intent of later performing deeper analysis of client web services. The most suitable audience for this app would be a filmmaker in need of things that are harmless to make hacking look cool in a dumb movie for an ignorant audience. LACERATE!
 ##### Explain - how a user will use it
+Type the command into the shell to see the basic help
 ## Features
 ##### 100 words each
 - f1: User can provide URL with the `lacerate` command as an argument, making it possible to use this utility on any available HTTP GETable asset. This is a nice way to quickly acquire data from any server with a public address - users will be very enthralled by this feature, there will be joy jumping hackers across the globe.
@@ -62,15 +63,15 @@ Modules from PyPI: Requests, Beautiful Soup, Argparse
 Minimum requirements: Python 3.4 128mb RAM x86_64, ARM, i386
 ###### Explanation of features
 Get data from websites
-Specify what information to scrape from a web page using flags
+Specify what information to get from a web page using flags
 
 ### Testing
-Test file included, run pytest from application directory.
+Test file included, run pytest with shell from application directory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0ODk1Mzk3LDE3MzcyNDAzOTAsLTE3Mz
-IzMzYxMTAsMzU5MzU5NTMxLC0xNzYxNzkyMDMzLDU4OTU3NDc4
-MSwyMDgyMzUwNzc2LDE3ODA3MTg5NzYsLTQwODQ1NTcxMCwxNz
-c2OTM4NDI0LC0xOTI5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4
-NzUzNiwtMTgwOTAyNjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMT
-EsMTU3Njk3MTI1NywtMTE2NjEyNDc1MV19
+eyJoaXN0b3J5IjpbLTE2NzgzMDY1MzQsMTczNzI0MDM5MCwtMT
+czMjMzNjExMCwzNTkzNTk1MzEsLTE3NjE3OTIwMzMsNTg5NTc0
+NzgxLDIwODIzNTA3NzYsMTc4MDcxODk3NiwtNDA4NDU1NzEwLD
+E3NzY5Mzg0MjQsLTE5MjkxMjc0NDgsLTI4OTUwOTg5NSwtODY5
+ODg3NTM2LC0xODA5MDI2NTExLC0yNTMzNDk2NzYsMTEzODY0NT
+ExMSwxNTc2OTcxMjU3LC0xMTY2MTI0NzUxXX0=
 -->
