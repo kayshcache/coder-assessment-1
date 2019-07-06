@@ -39,7 +39,7 @@ Outline of how to implement
 **5 minimum** Task breakdown (checklist)
 Task priorities & deadlines
 ## Developer Log
-[Please see development_log.md](DEV_LOG.md)
+[Please see development_log.md](https://github.com/kayshcache/coder-assessment-1/raw/master/DEV_LOG.md)
 Please send your log to your educator as a markdown file as you complete them. This is so we can provide you with feedback.
 ## Help File
 ###### Steps to install
@@ -48,7 +48,7 @@ Install from source for Unix systems only
 Python 3+
 Modules from PyPI: Requests, Beautiful Soup, Argparse
 ###### System/hardware requirements
-Minimum requirements 2gb RAM x86_64
+Minimum requirements 128mb RAM x86_64, ARM, i386
 ###### Explanation of features
 Get data from websites
 Specify what information to scrape from a web page using flags
@@ -56,7 +56,7 @@ Specify what information to scrape from a web page using flags
 ### Testing
 An **outline** of the testing procedure and cases should be included with the source code of the application and written in markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTg1NTY0OSwzNTkzNTk1MzEsLTE3Nj
+eyJoaXN0b3J5IjpbMTQwNDkzNzk4MiwzNTkzNTk1MzEsLTE3Nj
 E3OTIwMzMsNTg5NTc0NzgxLDIwODIzNTA3NzYsMTc4MDcxODk3
 NiwtNDA4NDU1NzEwLDE3NzY5Mzg0MjQsLTE5MjkxMjc0NDgsLT
 I4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5MDI2NTExLC0yNTMz
