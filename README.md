@@ -27,9 +27,8 @@ Exception errors will only be displayed to the user specifically if resources ar
 ![Figure 0.0 Control Flow Diagram](https://github.com/kayshcache/coder-assessment-1/raw/master/img/lacerater.png)
 ## Implementation Plan
 ### Feature 1 - " "
-Outline of how to implement
-**5 minimum** Task breakdown (checklist)
-Task priorities & deadlines
+Provide URL as Argument Feature
+(Priority 1 tasks)
 ### Feature 2 - " "
 Outline of how to implement
 **5 minimum** Task breakdown (checklist)
@@ -55,10 +54,10 @@ Specify what information to scrape from a web page using flags
 ### Testing
 Test file included, run pytest from application directory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTY3MjE3NiwzNTkzNTk1MzEsLTE3Nj
-E3OTIwMzMsNTg5NTc0NzgxLDIwODIzNTA3NzYsMTc4MDcxODk3
-NiwtNDA4NDU1NzEwLDE3NzY5Mzg0MjQsLTE5MjkxMjc0NDgsLT
-I4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5MDI2NTExLC0yNTMz
-NDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMjU3LC0xMTY2MTI0Nz
-UxXX0=
+eyJoaXN0b3J5IjpbLTE5Nzk3MjcyODIsMzU5MzU5NTMxLC0xNz
+YxNzkyMDMzLDU4OTU3NDc4MSwyMDgyMzUwNzc2LDE3ODA3MTg5
+NzYsLTQwODQ1NTcxMCwxNzc2OTM4NDI0LC0xOTI5MTI3NDQ4LC
+0yODk1MDk4OTUsLTg2OTg4NzUzNiwtMTgwOTAyNjUxMSwtMjUz
+MzQ5Njc2LDExMzg2NDUxMTEsMTU3Njk3MTI1NywtMTE2NjEyND
+c1MV19
 -->
