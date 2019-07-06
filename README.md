@@ -25,9 +25,6 @@ The user will write a single line command including all options and flags to get
 Exception errors will only be displayed to the user specifically if resources aren't found at the URL given or the user is experiencing internet connection problems. If resources are found at the specified URL but 
 ## Control Flow Diagram
 ![Figure 0.0 Control Flow Diagram](https://github.com/kayshcache/coder-assessment-1/raw/master/img/lacerater.png)
-Note:
-- show the workflow/logic and/or integration of the features in your application for each feature.  
-- utilise a recognised format or set of conventions for a control flow diagram, such as UML.
 ## Implementation Plan
 ### Feature 1 - " "
 Outline of how to implement
@@ -42,7 +39,7 @@ Outline of how to implement
 **5 minimum** Task breakdown (checklist)
 Task priorities & deadlines
 ## Developer Log
-[Please see development_log.md](src/development_log.md)
+[Please see development_log.md](DEV_LOG.md)
 Please send your log to your educator as a markdown file as you complete them. This is so we can provide you with feedback.
 ## Help File
 ###### Steps to install
@@ -59,9 +56,10 @@ Specify what information to scrape from a web page using flags
 ### Testing
 An **outline** of the testing procedure and cases should be included with the source code of the application and written in markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MzU5NTMxLC0xNzYxNzkyMDMzLDU4OT
-U3NDc4MSwyMDgyMzUwNzc2LDE3ODA3MTg5NzYsLTQwODQ1NTcx
-MCwxNzc2OTM4NDI0LC0xOTI5MTI3NDQ4LC0yODk1MDk4OTUsLT
-g2OTg4NzUzNiwtMTgwOTAyNjUxMSwtMjUzMzQ5Njc2LDExMzg2
-NDUxMTEsMTU3Njk3MTI1NywtMTE2NjEyNDc1MV19
+eyJoaXN0b3J5IjpbLTQ2NTg1NTY0OSwzNTkzNTk1MzEsLTE3Nj
+E3OTIwMzMsNTg5NTc0NzgxLDIwODIzNTA3NzYsMTc4MDcxODk3
+NiwtNDA4NDU1NzEwLDE3NzY5Mzg0MjQsLTE5MjkxMjc0NDgsLT
+I4OTUwOTg5NSwtODY5ODg3NTM2LC0xODA5MDI2NTExLC0yNTMz
+NDk2NzYsMTEzODY0NTExMSwxNTc2OTcxMjU3LC0xMTY2MTI0Nz
+UxXX0=
 -->
