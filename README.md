@@ -11,8 +11,8 @@ Cyber security analysts who are working in the Unix terminal, grepping, 'vimming
 ##### Explain - how a user will use it
 ## Features
 ##### 100 words each
-- f1: User can provide URL with the `lacerate` command as an argument, making it possible to use this utility on any available HTTP GETable asset. This is a nice way to quickly acquire data from any server with a public address - users will be very enthralled by this feature, there will be joy jum
-- f2: User can specify whether to output results to a file with the option flag `--file`. The app will produce a generic binary file.
+- f1: User can provide URL with the `lacerate` command as an argument, making it possible to use this utility on any available HTTP GETable asset. This is a nice way to quickly acquire data from any server with a public address - users will be very enthralled by this feature, there will be joy jumping hackers across the globe.
+- f2: User can specify whether to output results to a file with the option `--file`. The app will produce a generic binary file containing the data that was located at the specified URL. This state of the art almost mystical level feature will be likely to excite the
 - f3: User can choose what they want to *lacerate* from the website. For example, all links including the anchor and link text together. If no resource is found of the specified type, meta-tags from the head of the HTML document will be returned as default. Multiple lacerations can be produced with a single execution.
 - additional features: native-Unix like running; light-weight and extensible; has a man page
 ## User Interaction & Experience
@@ -59,9 +59,9 @@ Specify what information to scrape from a web page using flags
 ### Testing
 An **outline** of the testing procedure and cases should be included with the source code of the application and written in markdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDcyMjI1NjMsNTg5NTc0NzgxLDIwOD
-IzNTA3NzYsMTc4MDcxODk3NiwtNDA4NDU1NzEwLDE3NzY5Mzg0
-MjQsLTE5MjkxMjc0NDgsLTI4OTUwOTg5NSwtODY5ODg3NTM2LC
-0xODA5MDI2NTExLC0yNTMzNDk2NzYsMTEzODY0NTExMSwxNTc2
-OTcxMjU3LC0xMTY2MTI0NzUxXX0=
+eyJoaXN0b3J5IjpbMTMzNDExNDQ4Niw1ODk1NzQ3ODEsMjA4Mj
+M1MDc3NiwxNzgwNzE4OTc2LC00MDg0NTU3MTAsMTc3NjkzODQy
+NCwtMTkyOTEyNzQ0OCwtMjg5NTA5ODk1LC04Njk4ODc1MzYsLT
+E4MDkwMjY1MTEsLTI1MzM0OTY3NiwxMTM4NjQ1MTExLDE1NzY5
+NzEyNTcsLTExNjYxMjQ3NTFdfQ==
 -->
