@@ -31,22 +31,22 @@ Priority 1 tasks = P0, Priority 2 tasks = P1, Priority 3 tasks = P2
 Time will take is written in square brackets
 ### Feature 1 - " Provide URL as Argument Feature"
 - Task 1 (P1) write the argument into the main function [10 -30 minutes]
-- Task 2 (P2) test it
-- Task 3 (P0) try with funky URLs
-- Task 4 (P2) think additional tasks to describe here
-- Task 5 (P0) describe those addition tasks such as aforementioned task ie. this task
+- Task 2 (P2) test it [10 -30 minutes]
+- Task 3 (P0) try with funky URLs [10 -30 minutes]
+- Task 4 (P2) think of additional tasks to describe here [1 minute]
+- Task 5 (P0) describe those addition tasks such as aforementioned task ie. this task [10 -30 minutes]
 ### Feature 2 - " Output to file"
-- Task 1 (P1) decide on what file type the user should create
+- Task 1 (P1) decide on what file type the user should create [10 -30 minutes]
 - Task 2 (P1) write the argument into the main function [10 -30 minutes]
-- Task 3 (P1) write the function to write binary files
-- Task 4 (P0) hook function into argument flow control
-- Task 5 (P2) dance a bit
+- Task 3 (P1) write the function to write binary files [1 hour]
+- Task 4 (P0) hook function into argument flow control [10 -30 minutes]
+- Task 5 (P2) dance a bit [all night]
 ### Feature 3 - " Choose from laceration options"
-- Task 1 (P1) decide on total set of options
-- Task 2 (P0) put those options into the control flow to be processed by argparse
-- Task 3 (P2) think of cooler things to be doing than describing task breakdowns
-- Task 4 (P0) get some sleep so to be able to do the graveyard shift at crappy hostel and not become homeless
-- Task 5 (P2) feel shame about creating unprofessional documentation
+- Task 1 (P1) decide on total set of options [10 -30 minutes]
+- Task 2 (P0) put those options into the control flow to be processed by argparse [1 hour]
+- Task 3 (P2) think of cooler things to be doing than describing task breakdowns [10 -30 minutes]
+- Task 4 (P0) get some sleep so to be able to do the graveyard shift at crappy hostel and not become homeless [countless hours]
+- Task 5 (P2) feel shame about creating unprofessional documentation [lifetime]
 [See trello screen snips for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello0.png)
 ## Developer Log
 [Please see development_log.md](https://github.com/kayshcache/coder-assessment-1/raw/master/DEV_LOG.md)
@@ -65,10 +65,10 @@ Specify what information to scrape from a web page using flags
 ### Testing
 Test file included, run pytest from application directory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzg4MDcxMSwxNzM3MjQwMzkwLC0xNz
-MyMzM2MTEwLDM1OTM1OTUzMSwtMTc2MTc5MjAzMyw1ODk1NzQ3
-ODEsMjA4MjM1MDc3NiwxNzgwNzE4OTc2LC00MDg0NTU3MTAsMT
-c3NjkzODQyNCwtMTkyOTEyNzQ0OCwtMjg5NTA5ODk1LC04Njk4
-ODc1MzYsLTE4MDkwMjY1MTEsLTI1MzM0OTY3NiwxMTM4NjQ1MT
-ExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
+eyJoaXN0b3J5IjpbLTEwODgxNDU1NTgsMTczNzI0MDM5MCwtMT
+czMjMzNjExMCwzNTkzNTk1MzEsLTE3NjE3OTIwMzMsNTg5NTc0
+NzgxLDIwODIzNTA3NzYsMTc4MDcxODk3NiwtNDA4NDU1NzEwLD
+E3NzY5Mzg0MjQsLTE5MjkxMjc0NDgsLTI4OTUwOTg5NSwtODY5
+ODg3NTM2LC0xODA5MDI2NTExLC0yNTMzNDk2NzYsMTEzODY0NT
+ExMSwxNTc2OTcxMjU3LC0xMTY2MTI0NzUxXX0=
 -->
