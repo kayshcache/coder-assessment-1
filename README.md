@@ -37,10 +37,10 @@ Time will take is written in square brackets
 - Task 5
 ### Feature 2 - " Output to file"
 - Task 1 (P1) decide on what file type the user should create
-- Task 2 (
-- Task 3
-- Task 4
-- Task 5
+- Task 2 (P2) write the argument into the main function [10 -30 minutes]
+- Task 3 (P1) write the function to write binary files
+- Task 4 (P0) hook function into argument flow control
+- Task 5 (P2) dance a bit
 ### Feature 3 - " Choose from laceration options"
 - Task 1 (P1) decide on total set of options
 - Task 2
@@ -65,7 +65,7 @@ Specify what information to scrape from a web page using flags
 ### Testing
 Test file included, run pytest from application directory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTY5MjExOCwxNzM3MjQwMzkwLC0xNz
+eyJoaXN0b3J5IjpbMjExNTM2OTcyNiwxNzM3MjQwMzkwLC0xNz
 MyMzM2MTEwLDM1OTM1OTUzMSwtMTc2MTc5MjAzMyw1ODk1NzQ3
 ODEsMjA4MjM1MDc3NiwxNzgwNzE4OTc2LC00MDg0NTU3MTAsMT
 c3NjkzODQyNCwtMTkyOTEyNzQ0OCwtMjg5NTA5ODk1LC04Njk4
