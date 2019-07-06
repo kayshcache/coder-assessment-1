@@ -44,9 +44,9 @@ Time will take is written in square brackets
 ### Feature 3 - " Choose from laceration options"
 - Task 1 (P1) decide on total set of options
 - Task 2 (P0) put those options into the control flow to be processed by argparse
-- Task 3 (
-- Task 4
-- Task 5
+- Task 3 (P2) think of cooler things to be doing than describing task breakdowns
+- Task 4 (P0) get some sleep so to be able to do the graveyard shift at crappy hostel and not become homeless
+- Task 5 (P2) feel shame about creating unprofessional documentation
 [See trello screen snips for fun](https://github.com/kayshcache/coder-assessment-1/raw/master/img/trello0.png)
 ## Developer Log
 [Please see development_log.md](https://github.com/kayshcache/coder-assessment-1/raw/master/DEV_LOG.md)
@@ -65,10 +65,10 @@ Specify what information to scrape from a web page using flags
 ### Testing
 Test file included, run pytest from application directory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwOTY0NzIyLDE3MzcyNDAzOTAsLTE3Mz
-IzMzYxMTAsMzU5MzU5NTMxLC0xNzYxNzkyMDMzLDU4OTU3NDc4
-MSwyMDgyMzUwNzc2LDE3ODA3MTg5NzYsLTQwODQ1NTcxMCwxNz
-c2OTM4NDI0LC0xOTI5MTI3NDQ4LC0yODk1MDk4OTUsLTg2OTg4
-NzUzNiwtMTgwOTAyNjUxMSwtMjUzMzQ5Njc2LDExMzg2NDUxMT
-EsMTU3Njk3MTI1NywtMTE2NjEyNDc1MV19
+eyJoaXN0b3J5IjpbLTkyMzg4MDcxMSwxNzM3MjQwMzkwLC0xNz
+MyMzM2MTEwLDM1OTM1OTUzMSwtMTc2MTc5MjAzMyw1ODk1NzQ3
+ODEsMjA4MjM1MDc3NiwxNzgwNzE4OTc2LC00MDg0NTU3MTAsMT
+c3NjkzODQyNCwtMTkyOTEyNzQ0OCwtMjg5NTA5ODk1LC04Njk4
+ODc1MzYsLTE4MDkwMjY1MTEsLTI1MzM0OTY3NiwxMTM4NjQ1MT
+ExLDE1NzY5NzEyNTcsLTExNjYxMjQ3NTFdfQ==
 -->
